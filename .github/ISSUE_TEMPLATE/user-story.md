@@ -6,8 +6,10 @@ labels: ''
 assignees: ''
 
 ---
+Title: Need a service that has a counter
 
-**As a** [role]  
+* As a user, I need a service that has a counter so that I can keep track of how many times something has been done.
+
  **I need** [function]  
  **So that** [benefit]  
    
